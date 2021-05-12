@@ -11,42 +11,41 @@ disableKinds:
 relativeURLs: yes
 uglyURLs: yes
 googleAnalytics: ''
-copyright: '&copy;2021 Your Name'
+copyright: '&copy;2021 Rebecca Manning'
 params:
-  author: Jenny Jones
-  description: Split is a centrally-divided layout for a professional online presence
-    with a big image or video left with alongside content.
+  author: Rebecca Manning
+  description: Dynamic Intellect who Excels in Designing and Implementing Innovative Solutions
   favicon: favicon.ico
   links:
     - list1:
         heading: Connect
         link:
-          - text: Blog
-            url: '#'
-          - text: Email
-            url: '#'
-          - text: Newsletter
-            url: '#'
+          - text: Linkedin
+            url: 'www.linkedin.com/in/rebeccamanning422'
+          - text: Professional Email
+            url: 'rdm124@case.edu'
+          - text: Personal Email 
+            url: 'rdmannin@yahoo.com'
     - list2:
-        heading: Social
+        heading: Collaborate
         link:
-          - text: Twitter
-            url: '#'
-          - text: Instagram
-            url: '#'
-          - text: Dribbble
-            url: '#'
+          - text: H.E.A.L
+            url: 'https://sites.google.com/case.edu/heal/welcome'
+          - text: KAH Cle
+            url: 'http://kahcleveland.weebly.com/contact-us.html'
+          - text: EHS
+            url: 'https://case.edu/ehs/about/staff'
     - list3:
-        heading: Network
+        heading: Contribute
         link:
-          - text: Link One
-            url: '#'
-          - text: Link Two
-            url: '#'
-          - text: Link Three
-            url: '#'
-  shareImage: images/social.jpg
-  twitterHandle: onepagelove
+          - text: Volunteer
+            url: 'http://kahcleveland.weebly.com/events.html'
+          - text: Donate
+            url: 'https://www.paypal.com/donate?token=3Cbr3ROxbxJpRjVvyZr0o2-gWZAEQZuiExuQfGGqJ-Y7Sh9mCKNAQmhxwH9MHLfKApNS1F7FV64MgXZR'
+          - text: H.E.A.L Advocates
+            url: 'https://sites.google.com/case.edu/heal/advocates/become-an-advocate?authuser=0'
+  shareImage: images/IMG_1729.jpg
+  twitterHandle: 
   visual:
     image:
       enable: yes
