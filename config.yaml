@@ -21,11 +21,11 @@ params:
         heading: Connect
         link:
           - text: Linkedin
-            url: 'www.linkedin.com/in/rebeccamanning422'
+            url: 'https://www.linkedin.com/in/rebeccamanning422'
           - text: Professional Email
-            url: 'rdm124@case.edu'
+            url: 'https://rdm124@case.edu'
           - text: Personal Email 
-            url: 'rdmannin@yahoo.com'
+            url: 'https://rdmannin@yahoo.com'
     - list2:
         heading: Collaborate
         link:
@@ -49,7 +49,7 @@ params:
   visual:
     image:
       enable: yes
-      file: images/background.jpg
+      file: images/IMG_1729.jpg
       position: center center
     video:
       enable: no
