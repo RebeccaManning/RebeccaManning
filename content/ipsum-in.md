@@ -2,6 +2,9 @@
 title: Relevant Experience
 ---
 
+<span style="text-decoration:underline">**Employment History**</span>
+
+___________________________________________________
 **Place of Employment: Ohio Wesleyan Department of Chemistry** 
 
 (August 2014- May 2015; August 2016- May 2017)
@@ -74,6 +77,10 @@ Description: The Department of Environmental Health & Safety is the regulatory a
 
 ___________________________________________________
 
+<span style="text-decoration:underline">**Research**</span>
+
+___________________________________________________
+
 **Ohio Wesleyan Summer Science Research Program (SSRP): Novel Oxidative Chemistry Initiated by Ozone**
 
 Abstract: Ketals are commonly employed protecting groups in organic chemistry. Ozone, a powerful oxidant, has not been broadly employed in ketal deprotection, but preliminary evidence suggests that oxidative deprotection of ketals using ozone might be feasible. However, further research needs to be done.  Three ketals (1-3) were synthesized to test this deprotection method.  The products were purified via recrystallization and column chromatography.  Thin layer chromatography and both 1H NMR and 13C NMR spectroscopy were used for characterization.  The ozonation of ketal (1) was investigated at -78˚C, both with dry ozonation on silica and in solution. Ozone was produced for these reactions by an ozone generator. Unexpectedly, oxidation of the phenyl ring occurred producing a carboxylic acid (4). Additional studies directed at better
@@ -85,6 +92,10 @@ ___________________________________________________
 ___________________________________________________
 
 **Independent Study – Bacopa Monneri as a Bioremedic Agent to Remove Ibuprofen from Drinking Water: Spring Semester 2017**
+
+___________________________________________________
+
+<span style="text-decoration:underline">**Professional Development**</span>
 
 ___________________________________________________
 

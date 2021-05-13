@@ -1,5 +1,5 @@
 ---
-tagline: Didactic Innovator. Dynamic Intellectual. 
+tagline: Intellectual. Advocate. Innovator.
 title: Rebecca Manning
 ---
 
