@@ -2,7 +2,7 @@
 title: Relevant Experience
 ---
 
-> > > > **Employment History** < < < <
+▸▸▸▸▸▸▸▸▸**EMPLOYMENT HISTORY**◂◂◂◂◂◂◂◂◂
 
 ___________________________________________________
 **Place of Employment: Ohio Wesleyan Department of Chemistry** 
@@ -77,7 +77,7 @@ Description: The Department of Environmental Health & Safety is the regulatory a
 
 ___________________________________________________
 
-> > > > **Research** < < < <
+▸▸▸▸▸▸▸▸▸**RESEARCH**◂◂◂◂◂◂◂◂◂
 
 ___________________________________________________
 
@@ -95,7 +95,7 @@ ___________________________________________________
 
 ___________________________________________________
 
-> > > > **Professional Development** < < < <
+▸▸▸▸▸▸▸▸▸**PROFESSIONAL DEVELOPMENT**◂◂◂◂◂◂◂◂◂
 
 ___________________________________________________
 
