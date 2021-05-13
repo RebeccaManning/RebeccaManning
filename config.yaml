@@ -1,6 +1,6 @@
 baseURL: https://rebeccamanning.netlify.app/
 languageCode: en-US
-title: An Introduction - Rebecca Manning
+title: Rebecca Manning - An Introduction
 theme: hugo-split-theme
 disableKinds:
   - section
@@ -20,10 +20,10 @@ params:
         link:
           - text: Linkedin
             url: 'https://www.linkedin.com/in/rebeccamanning422'
-          - text: Professional Email
-            url: 'https://rdm124@case.edu'
-          - text: Personal Email 
-            url: 'https://rdmannin@yahoo.com'
+          - text: Github
+            url: 'https://github.com/RebeccaManning'
+          - text: Email 
+            url: 'https://sites.google.com/case.edu/heal/contact?authuser=0'
     - list2:
         heading: Collaborate
         link:
@@ -31,8 +31,8 @@ params:
             url: 'https://sites.google.com/case.edu/heal/welcome'
           - text: KAH Cle
             url: 'http://kahcleveland.weebly.com/contact-us.html'
-          - text: EHS
-            url: 'https://case.edu/ehs/about/staff'
+          - text: Current Support
+            url: 'https://sites.google.com/case.edu/heal/about/awards-grants?authuser=0'
     - list3:
         heading: Contribute
         link:
@@ -47,7 +47,7 @@ params:
   visual:
     image:
       enable: yes
-      file: images/IMG_1729.jpg
+      file: images/IMG_1730.jpg
       position: center center
     video:
       enable: no
