@@ -1,6 +1,6 @@
 baseURL: https://rebeccamanning.netlify.app/
 languageCode: en-US
-title: Split - HTML Template Demo
+title: An Introduction - Rebecca Manning
 theme: hugo-split-theme
 disableKinds:
   - section
@@ -10,12 +10,10 @@ disableKinds:
   - sitemap
 relativeURLs: yes
 uglyURLs: yes
-googleAnalytics: ''
 copyright: '&copy;2021 Rebecca Manning'
 params:
   author: Rebecca Manning
   description: Dynamic Intellect who Excels in Designing and Implementing Innovative Solutions
-  favicon: favicon.ico
   links:
     - list1:
         heading: Connect

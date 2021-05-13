@@ -1,6 +1,8 @@
 ---
-tagline: Designer. Stylist. Nomad.
-title: Jenny Jones
+tagline: Dynamic Intellect. Innovator.
+title: Rebecca Manning
 ---
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+My passion is designing and implementing innovative solutions. 
+
+My [current research interests]({{< ref "luctus-urna.md" >}}) are focused on health literacy and communication with the goal of advocacy and community empowerment. With my [previous experience]({{< ref "ipsum-in.md" >}}) I've worked diligently to innovate and pioneer in fields that are often filled with antiquated practices. As the founder of two start-ups, Health Education Advocacy Link and Gratitude Bags, I hope to continue to pioneer in the entrepreneurship ecosystem, public health domain, and beyond. My work in these arenas has been [recognized]({{< ref "purus-sem.md" >}}) by local and national organizations.
